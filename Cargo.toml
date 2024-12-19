@@ -1,0 +1,15 @@
+[package]
+name = "cs2-tv_replaycast"
+version = "0.1.0"
+edition = "2021"
+authors = ["i-am-shastin"]
+
+[dependencies]
+reqwest = { version = "0.12.9", features = ["json"] }
+tokio = { version = "1.41.1", features = ["full"] }
+serde = { version = "1.0.216", features = ["derive"] }
+serde_json = "1.0"
+chrono = "0.4.38"
+lazy_static = "1.5.0"
+dotenvy = "0.15.7"
+teloxide = "0.13.0"

@@ -1,0 +1,1 @@
+"C:\Portable Files\yt-dlp\yt-dlp.exe" --batch-file "streams.txt" -S "res:480" -N 64 --ffmpeg-location "C:\Portable Files\ffmpeg\bin"

@@ -1,0 +1,5 @@
+{
+  "url": "http://pvp-sstv-sh-1301671788.wmpvp.com/seeseetv/pwa/2",
+  "fallback_url": "http://pvp-sstv-sh-1301671788.wmpvp.com/seeseetv/major/2",
+  "directory": "./streams/2"
+}
